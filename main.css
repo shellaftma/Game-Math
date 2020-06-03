@@ -1,0 +1,25 @@
+body{
+	background-color: maroon;
+	font-family:lucida console;
+     }
+.tabel{
+    padding: 10px;
+    background-color: white;
+	color: black;
+	font-size:15px;
+    }
+#head{
+	background-color: black;
+	padding:7px;
+	text-align:center;
+	}
+#body {
+	margin-left:auto;
+	margin-right:auto;
+	color: white;
+	margin-top: 100px;
+	}
+#submit{
+	background-color: black;
+	color: white;
+	 }
