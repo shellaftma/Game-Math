@@ -7,3 +7,5 @@ Aplikasi mathematics game penjumlahan sederhana dengan fitur sebagai berikut:
 - Setiap kali jawaban yang diberikan benar, maka skor bertambah 10
 - Permainan berakhir (game over) jika livesnya habis
 - Setelah permainan berakhir, maka akan muncul hall of fame yang memunculkan 10 players yang menghasilkan skor tertinggi.
+
+Link : https://github.com/shellaftma/Game-Math
